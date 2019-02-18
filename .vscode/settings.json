@@ -1,0 +1,12 @@
+{
+  "editor.useTabStops": false,
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.formatOnSave": true,
+  "workbench.editor.showTabs": false,
+  "editor.autoIndent": false,
+  "editor.detectIndentation": false
+}
